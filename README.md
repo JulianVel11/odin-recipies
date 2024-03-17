@@ -1,0 +1,1 @@
+This is a project to review the basics of HTML that I have forgotten through this 3 years, re-learning is hard but I have made good improvements.
